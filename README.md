@@ -1,7 +1,7 @@
 # Pet_Shop_Dashboard
 ## Power BI Dashboard for a Pet Shop
 
-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiZmJjZGIyYTctNTk5Zi00OTVkLTkwNjEtM2E5OTliN2Q3Y2ZiIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9) to view the dashboard in your browser.
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiZmJjZGIyYTctNTk5Zi00OTVkLTkwNjEtM2E5OTliN2Q3Y2ZiIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&pageName=ReportSection) to view the dashboard in your browser.
 <br>
 <br>
 ### Dashboard Preview:
